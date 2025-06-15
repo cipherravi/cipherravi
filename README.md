@@ -19,7 +19,7 @@
 
 🌱 What I'm currently learning: Building scalable systems
 
-🔭 What I'm working on: Self project which is Clone of Swiggy
+🔭 What I'm working on: Self projects
 
 💡 Fun fact: It took me a few moments to write this, but I'm still learning and refining my abilities! 😉
 
